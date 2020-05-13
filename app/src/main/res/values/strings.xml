@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RexiufuDemo</string>
+    <string name="title_cancel">取消</string>
+    <string name="text_no_permission">已禁用权限，请手动授予</string>
+    <string name="text_no_permission_setting">设置</string>
+</resources>
